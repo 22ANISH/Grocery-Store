@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/apple.jpg",
+        "price": 0.5,
+        "description": "Fresh and juicy red apples."
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/banana.jpg",
+        "price": 0.3,
+        "description": "Ripe bananas, high in potassium."
+    },
+    {
+        "id": 3,
+        "name": "Mango",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/mango.jpg",
+        "price": 1.0,
+        "description": "Sweet and juicy mangoes."
+    },
+    {
+        "id": 4,
+        "name": "Strawberry",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/strawberry.jpg",
+        "price": 2.0,
+        "description": "Fresh strawberries, full of flavor."
+    },
+    {
+        "id": 5,
+        "name": "Orange",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/orange.jpg",
+        "price": 0.8,
+        "description": "Juicy oranges, rich in vitamin C."
+    },
+    {
+        "id": 6,
+        "name": "Pineapple",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/pineapple.jpg",
+        "price": 1.5,
+        "description": "Tropical pineapple, sweet and tangy."
+    },
+    {
+        "id": 7,
+        "name": "Blueberry",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/blueberry.jpg",
+        "price": 3.0,
+        "description": "Fresh blueberries full of antioxidants."
+    },
+    {
+        "id": 8,
+        "name": "Grapes",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/grapes.jpg",
+        "price": 2.5,
+        "description": "Juicy and sweet seedless grapes."
+    },
+    {
+        "id": 9,
+        "name": "Kiwi",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/kiwi.jpg",
+        "price": 0.7,
+        "description": "Tangy and nutritious kiwi fruits."
+    },
+    {
+        "id": 10,
+        "name": "Watermelon",
+        "category": "Fruits",
+        "image": "http://www.yourgrocerysite.com/images/watermelon.jpg",
+        "price": 1.8,
+        "description": "Refreshing watermelon, perfect for summer."
+    }
+]
