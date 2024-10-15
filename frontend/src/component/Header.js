@@ -7,7 +7,7 @@ import { FiSearch } from "react-icons/fi"; // Import search icon
 import { useDispatch, useSelector } from "react-redux";
 import { logoutRedux } from "../redux/userSlice";
 import { toast } from "react-hot-toast";
-
+//updated
 const Header = ({ setSearchQuery }) => {
   const [showMenu, setShowMenu] = useState(false);
   const userData = useSelector((state) => state.user);
